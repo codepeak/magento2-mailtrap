@@ -1,0 +1,21 @@
+{
+  "name": "codepeak/magento2-mailtrap",
+  "description": "Enable mail testing through Mailtrap.io",
+  "license": "proprietary",
+  "authors": [
+    {
+      "email": "robert@codepeak.se",
+      "name": "Robert Lord, Codepeak AB"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Codepeak\\Mailtrap\\": ""
+    }
+  }
+}
