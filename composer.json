@@ -1,6 +1,7 @@
 {
   "name": "codepeak/magento2-mailtrap",
   "description": "Enable mail testing through Mailtrap.io",
+  "version": "1.1.0",
   "license": "proprietary",
   "authors": [
     {
